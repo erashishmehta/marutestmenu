@@ -1,6 +1,6 @@
 {
-  "name": "ashish",
-  "version": "0.0.1",
+  "name": "marutestmenu",
+  "version": "0.0.5",
   "description": "this is simple menu",
   "main": ".mongorc.js",
   "dependencies": {},
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/erashishmehta/menu.git"
+    "url": "git+https://github.com/erashishmehta/marutestmenu.git"
   },
   "author": "ashish <ashishmehta1991@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/erashishmehta/menu/issues"
+    "url": "https://github.com/erashishmehta/marutestmenu/issues"
   },
-  "homepage": "https://github.com/erashishmehta/menu#readme"
+  "homepage": "https://github.com/erashishmehta/marutestmenu#readme"
 }
