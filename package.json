@@ -1,0 +1,24 @@
+{
+  "name": "ashish",
+  "version": "0.0.1",
+  "description": "this is simple menu",
+  "main": ".mongorc.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erashishmehta/menu.git"
+  },
+  "author": "ashish <ashishmehta1991@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erashishmehta/menu/issues"
+  },
+  "homepage": "https://github.com/erashishmehta/menu#readme"
+}
